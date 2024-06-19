@@ -21,10 +21,6 @@ Use any means necessary!
 
 Happy hacking!!!
 
-
-Your task is to find which ids from `scraped_links_ids.txt` are not present in `scraped_content_ids.txt`.
-
-
 ### Output
 In output, you will share the list of all emails you found in the website in dms.
 
